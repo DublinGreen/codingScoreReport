@@ -2,7 +2,7 @@
 javascript function to calcuate codingScoreReport
 
 # Instructions for function
-Function returns Grade and number of scores within that grade in descending order
+Function returns Grade and number of scores within that grade in descending order.
 if grade is greater than the elite max grade, return a elite grade
 
 # tests input
